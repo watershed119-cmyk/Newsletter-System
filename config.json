@@ -1,0 +1,13 @@
+{
+  "recipients": [
+    "팀원1@example.com",
+    "팀원2@example.com",
+    "팀원3@example.com",
+    "팀원4@example.com",
+    "팀원5@example.com"
+  ],
+  "last_issue_number": 0,
+  "sender_name": "글로벌 물환경 동향 모니터링팀",
+  "system_name": "글로벌 물환경 동향 뉴스레터 시스템",
+  "version": "1.0"
+}
